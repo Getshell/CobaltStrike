@@ -1,8 +1,8 @@
-# 《神器CobaltStrike使用》
+# 《神器CobaltStrike的攻击艺术》
 
 这里记录收集优秀的CobaltStrike内容，包括优秀的资源工具或优秀的项目代码等。本项目工具大部分都未检测是否存在后门，务必在虚拟机下运行。CobaltStrike思想是红队的未来。作者：[0e0w](https://github.com/0e0w)
 
-本项目创建时间为2021年8月3日。最近的一次更新时间为2021年8月4日。
+本项目创建时间为2021年8月3日。最近的一次更新时间为2021年8月6日。
 
 - [0x01-CobaltStrike资源]()
 - [0x02-CobaltStrike程序]()
@@ -181,6 +181,7 @@
 - [ ] https://github.com/boku7/spawn
 - [ ] https://github.com/boku7/injectAmsiBypass
 - [ ] https://github.com/0x727/AggressorScripts_0x727
+- [ ] https://github.com/threatexpress/malleable-c2
 
 ## 0x04-CobaltStrike魔改
 
