@@ -22,15 +22,17 @@
 一、原版程序
 
 二、程序破解
+- [ ] https://github.com/izj007/CrackSleeve
+
+三、程序源码
+- [ ] https://github.com/nice0e3/Cobaltstrike_4.3_Source
 
 ## 0x03-CobaltStrike插件
 
 一、持久上线
-
 - [ ] [StayKit](https://github.com/0xthirteen/StayKit)
 
 二、免杀处理
-
 - [ ] [BypassAV](https://github.com/hack2fun/BypassAV)
 - [ ] [Arsenal-Kits](https://github.com/Cliov/Arsenal)
 - [ ] [CS-Loader](https://github.com/Gality369/CS-Loader)
@@ -38,13 +40,11 @@
 - [ ] https://paper.seebug.org/1349/
 
 三、上线提醒
-
 - [ ] [CS_Mail_Tip](https://github.com/0x50j/CS_Mail_Tip)
 - [ ] WeChatPush
 - [ ] https://github.com/Daybr4ak/C2ReverseProxy
 
 四、综合框架
-
 - [ ] [taowu](https://github.com/pandasec888/taowu-cobalt-strike)
 - [ ] [Ladon](https://github.com/k8gege/Ladon)
 - [ ] [Aggressor](https://github.com/k8gege/Aggressor)
@@ -55,29 +55,24 @@
 - [ ] https://github.com/Adminisme/ServerScan
 
 五、权限提升
-
 - [ ] weichi
 - [ ] [ElevateKit](https://github.com/rsmudge/ElevateKit)
 - [ ] [Aggressor-Script](https://github.com/rasta-mouse/Aggressor-Script)
 - [ ] [SweetPotato_CS](https://github.com/Tycx2ry/SweetPotato_CS)
 
 六、漏洞扫描
-
 - [ ] [CVE-2018-4878](https://github.com/vysecurity/CVE-2018-4878)
 - [ ] [CVE-2020-0796](https://github.com/Rvn0xsy/CVE_2020_0796_CNA)
 - [ ] [MS17-010](https://github.com/phink-team/Cobaltstrike-MS17-010)
 
 七、流量隧道
-
 - [ ] [UploadAndRunFrp](https://github.com/Ch1ngg/AggressorScript-UploadAndRunFrp)
 
 八、痕迹清理
-
 - [ ] [EventLogMaster](https://github.com/QAX-A-Team/EventLogMaster)
 - [ ] [Phant0m_cobaltstrike](https://github.com/p292/Phant0m_cobaltstrike)
 
 九、其他内容
-
 - [ ] https://github.com/bitsadmin/nopowershell
 - [ ] https://github.com/darkr4y/geacon
 - [ ] https://github.com/vysecurity/ANGRYPUPPY
@@ -176,7 +171,6 @@
 - [ ] https://github.com/boku7/injectAmsiBypass
 - [ ] https://github.com/capt-meelo/Beaconator
 - [ ] https://github.com/huoji120/CobaltStrikeDetected
-- [ ] https://github.com/capt-meelo/Beaconator
 - [ ] https://github.com/Mikasazero/Cobalt-Strike
 - [ ] https://github.com/boku7/spawn
 - [ ] https://github.com/boku7/injectAmsiBypass
@@ -184,6 +178,7 @@
 - [ ] https://github.com/threatexpress/malleable-c2
 - [ ] https://github.com/D1sAbl4/samdump
 - [ ] https://github.com/ASkyeye/CobaltPatch
+- [ ] https://github.com/boku7/halosgate-ps
 
 ## 0x04-CobaltStrike魔改
 
