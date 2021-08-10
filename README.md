@@ -2,7 +2,7 @@
 
 这里记录收集优秀的CobaltStrike内容，包括优秀的资源工具或优秀的项目代码等。本项目工具大部分都未检测是否存在后门，务必在虚拟机下运行。CobaltStrike思想是红队的未来。作者：[0e0w](https://github.com/0e0w)
 
-本项目创建时间为2021年8月3日。最近的一次更新时间为2021年8月8日。
+本项目创建时间为2021年8月3日。最近的一次更新时间为2021年8月10日。
 
 - [0x01-CobaltStrike资源]()
 - [0x02-CobaltStrike程序]()
@@ -184,7 +184,10 @@
 
 ## 0x04-CobaltStrike魔改
 
+一、二次开发
+
 - [ ] https://mp.weixin.qq.com/s/AePKPUDnBUr4WbJqvPCleg
+- [ ] https://github.com/Yang0615777/SecondaryDevCobaltStrike
 
 ## 0x05-CobaltStrike免杀
 
