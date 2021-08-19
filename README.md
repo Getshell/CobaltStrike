@@ -1,8 +1,8 @@
-# 《神器CobaltStrike的攻击艺术》
+# 《攻击神器CobaltStrike的艺术》
 
 这里记录收集优秀的CobaltStrike内容，包括优秀的资源工具或优秀的项目代码等。本项目工具大部分都未检测是否存在后门，务必在虚拟机下运行。CobaltStrike思想是红队的未来。作者：[0e0w](https://github.com/0e0w)
 
-本项目创建时间为2021年8月3日。最近的一次更新时间为2021年8月13日。
+本项目创建时间为2021年8月3日。最近的一次更新时间为2021年8月19日。
 
 - [0x01-CobaltStrike资源]()
 - [0x02-CobaltStrike程序]()
@@ -16,6 +16,9 @@
 一、教程文档
 
 二、视频教程
+
+三、其他资源
+- [ ] https://github.com/vestjoe/cobaltstrike_services
 
 ## 0x02-CobaltStrike程序
 
@@ -184,14 +187,19 @@
 - [ ] https://github.com/CCob/BeaconEye
 - [ ] https://github.com/Sentinel-One/CobaltStrikeParser
 - [ ] https://github.com/hariomenkel/CobaltSpam
+- [ ] https://github.com/cisagov/ansible-role-cobalt-strike
+- [ ] https://github.com/boku7/CobaltStrikeReflectiveLoader
 
 ## 0x04-CobaltStrike魔改
 
 一、二次开发
-
 - [ ] https://mp.weixin.qq.com/s/AePKPUDnBUr4WbJqvPCleg
 - [ ] https://github.com/Yang0615777/SecondaryDevCobaltStrike
 
+二、流量免杀
+
 ## 0x05-CobaltStrike免杀
+
+一、shellcode免杀
 
 ## 0x06-CobaltStrike参考
