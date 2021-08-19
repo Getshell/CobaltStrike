@@ -189,6 +189,7 @@
 - [ ] https://github.com/hariomenkel/CobaltSpam
 - [ ] https://github.com/cisagov/ansible-role-cobalt-strike
 - [ ] https://github.com/boku7/CobaltStrikeReflectiveLoader
+- [ ] https://github.com/dcsync/pycobalt
 
 ## 0x04-CobaltStrike魔改
 
