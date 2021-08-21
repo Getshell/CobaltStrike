@@ -195,8 +195,9 @@
 
 ## 0x04-CobaltStrike研究
 
-- https://github.com/WBGlIl/Beacon_re
-- https://github.com/NoOne-hub/Beacon.dll
+- [ ] https://github.com/WBGlIl/Beacon_re
+- [ ] https://github.com/NoOne-hub/Beacon.dll
+- [ ] https://github.com/boku7/whereami
 
 ## 0x05-CobaltStrike魔改
 
