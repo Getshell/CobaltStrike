@@ -21,6 +21,10 @@
 三、其他资源
 - [ ] https://github.com/vestjoe/cobaltstrike_services
 - [ ] https://github.com/S1ckB0y1337/Cobalt-Strike-CheatSheet
+- [ ] https://github.com/netero1010/Quser-BOF
+- [ ] https://github.com/netero1010/TrustedPath-UACBypass-BOF
+- [ ] https://github.com/cisagov/ansible-role-cobalt-strike
+- [ ] https://github.com/zer0yu/Awesome-CobaltStrike
 
 ## 0x02-CobaltStrike程序
 
@@ -86,13 +90,11 @@
 - [ ] https://github.com/harleyQu1nn/AggressorScripts
 - [ ] https://github.com/bluscreenofjeff/AggressorScripts
 - [ ] https://github.com/mgeeky/cobalt-arsenal
-- [ ] https://github.com/zer0yu/Awesome-CobaltStrike
 - [ ] https://github.com/TheKingOfDuck/XSS-Fishing2-CS
 - [ ] https://github.com/timwhitez/XSS-Phishing
 - [ ] https://github.com/alphaSeclab/cobalt-strike
 - [ ] https://github.com/bitsadmin/fakelogonscreen
 - [ ] https://github.com/Al1ex/CSPlugins
-- [ ] https://github.com/zer0yu/Awesome-CobaltStrike
 - [ ] https://github.com/josephkingstone/cobalt_strike_extension_kit
 - [ ] https://github.com/threatexpress/malleable-c2
 - [ ] https://github.com/isafe/cobaltstrike_brute
