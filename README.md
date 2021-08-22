@@ -2,17 +2,21 @@
 
 这里记录收集优秀的CobaltStrike内容，包括优秀的资源工具或优秀的项目代码等。本项目工具大部分都未检测是否存在后门，务必在虚拟机下运行。CobaltStrike思想是红队的未来。作者：[0e0w](https://github.com/0e0w)
 
-本项目创建时间为2021年8月3日。最近的一次更新时间为2021年8月21日。
+本项目创建时间为2021年8月3日。最近的一次更新时间为2021年8月22日。
 
 - [0x01-CobaltStrike资源]()
 - [0x02-CobaltStrike程序]()
-- [0x03-CobaltStrike插件]()
+- [0x03-CobaltStrike脚本]()
 - [0x04-CobaltStrike研究]()
 - [0x05-CobaltStrike魔改]()
 - [0x06-CobaltStrike免杀]()
 - [0x07-CobaltStrike参考]()
 
 ## 0x01-CobaltStrike资源
+
+- https://github.com/search?q=CobaltStrike
+- https://github.com/topics/cobalt-strike
+- https://github.com/topics/cobaltstrike
 
 一、教程文档
 
@@ -25,34 +29,70 @@
 - [ ] https://github.com/netero1010/TrustedPath-UACBypass-BOF
 - [ ] https://github.com/cisagov/ansible-role-cobalt-strike
 - [ ] https://github.com/zer0yu/Awesome-CobaltStrike
+- [ ] https://github.com/hattmo/c2profilejs
+- [ ] https://github.com/jan-call/Cobaltstrike-Plugins
+- [ ] https://github.com/REW-sploit/REW-sploit
+- [ ] https://github.com/geemion/Khepri
+- [ ] [【知识回顾】Cobalt Strike 4.0 认证及修补过程](https://rcoil.me/2020/11/%E3%80%90%E7%9F%A5%E8%AF%86%E5%9B%9E%E9%A1%BE%E3%80%91Cobalt%20Strike%204.0%E8%AE%A4%E8%AF%81%E5%8F%8A%E4%BF%AE%E8%A1%A5%E8%BF%87%E7%A8%8B/)
+- [ ] [CobaltStrike4.0无Hook蛮力Cracked License思路](https://ca3tie1.github.io/post/cobaltstrike40-wu-hook-man-li-cracked-license-si-lu/)
 
 ## 0x02-CobaltStrike程序
 
+一、3.x版本
+
+二、4.0版本
+
+三、4.1版本
+
+四、4.2版本
+
+五、4.3版本
+
+六、4.4版本
+
 一、原版程序
 
+- 4.4
+- 4.3
+- 4.2
+- 4.1
+
 二、程序破解
+
+- 4.4
+- 4.3
+
+- [ ] https://mp.weixin.qq.com/s/kdcqMoPv5f8tlkrk7s5PYA
+- [ ] https://mp.weixin.qq.com/s/D2q_8mi6wqk18Ox1QDcfxw
+
+- 4.2
+- 4.1
+
 - [ ] https://github.com/izj007/CrackSleeve
 
 三、程序源码
+
+- 4.4
+- 4.3
+
 - [ ] https://github.com/nice0e3/Cobaltstrike_4.3_Source
 
-## 0x03-CobaltStrike插件
+- 4.2
+- 4.1
+
+## 0x03-CobaltStrike脚本
 
 一、持久上线
 - [ ] [StayKit](https://github.com/0xthirteen/StayKit)
 
 二、免杀处理
-- [ ] [BypassAV](https://github.com/hack2fun/BypassAV)
-- [ ] [Arsenal-Kits](https://github.com/Cliov/Arsenal)
-- [ ] [CS-Loader](https://github.com/Gality369/CS-Loader)
-- [ ] [Doge-Loader](https://github.com/timwhitez/Doge-Loader)
-- [ ] https://paper.seebug.org/1349/
 
 三、上线提醒
 - [ ] [CS_Mail_Tip](https://github.com/0x50j/CS_Mail_Tip)
 - [ ] WeChatPush
 - [ ] https://github.com/Daybr4ak/C2ReverseProxy
 - [ ] https://github.com/teamssix/dingding_cs_notice
+- [ ] https://github.com/lintstar/CS-PushPlus
 
 四、综合框架
 - [ ] [taowu](https://github.com/pandasec888/taowu-cobalt-strike)
@@ -63,6 +103,7 @@
 - [ ] [Cobalt-Strike-Aggressor-Scripts](https://github.com/timwhitez/Cobalt-Strike-Aggressor-Scripts)
 - [ ] https://github.com/wafinfo/cobaltstrike
 - [ ] https://github.com/Adminisme/ServerScan
+- [ ] https://github.com/lintstar/LSTAR
 
 五、权限提升
 - [ ] weichi
@@ -82,7 +123,12 @@
 - [ ] [EventLogMaster](https://github.com/QAX-A-Team/EventLogMaster)
 - [ ] [Phant0m_cobaltstrike](https://github.com/p292/Phant0m_cobaltstrike)
 
-九、其他内容
+九、近源攻击
+
+- [ ] https://github.com/AdminTest0/badusb_cobaltstrike
+
+十、其他内容
+
 - [ ] https://github.com/bitsadmin/nopowershell
 - [ ] https://github.com/darkr4y/geacon
 - [ ] https://github.com/vysecurity/ANGRYPUPPY
@@ -96,7 +142,6 @@
 - [ ] https://github.com/bitsadmin/fakelogonscreen
 - [ ] https://github.com/Al1ex/CSPlugins
 - [ ] https://github.com/josephkingstone/cobalt_strike_extension_kit
-- [ ] https://github.com/threatexpress/malleable-c2
 - [ ] https://github.com/isafe/cobaltstrike_brute
 - [ ] https://github.com/ryanohoro/csbruter
 - [ ] https://github.com/1135/1135-CobaltStrike-ToolKit
@@ -187,19 +232,19 @@
 - [ ] https://github.com/D1sAbl4/samdump
 - [ ] https://github.com/ASkyeye/CobaltPatch
 - [ ] https://github.com/boku7/halosgate-ps
-- [ ] https://github.com/Tylous/SourcePoint
 - [ ] https://github.com/CCob/BeaconEye
 - [ ] https://github.com/Sentinel-One/CobaltStrikeParser
 - [ ] https://github.com/hariomenkel/CobaltSpam
 - [ ] https://github.com/cisagov/ansible-role-cobalt-strike
-- [ ] https://github.com/boku7/CobaltStrikeReflectiveLoader
 - [ ] https://github.com/dcsync/pycobalt
+- [ ] https://github.com/mgeeky/cobalt-arsenal
 
 ## 0x04-CobaltStrike研究
 
 - [ ] https://github.com/WBGlIl/Beacon_re
 - [ ] https://github.com/NoOne-hub/Beacon.dll
 - [ ] https://github.com/boku7/whereami
+- [ ] https://github.com/boku7/CobaltStrikeReflectiveLoader
 
 ## 0x05-CobaltStrike魔改
 
@@ -212,5 +257,12 @@
 ## 0x06-CobaltStrike免杀
 
 一、shellcode免杀
+
+- [ ] https://github.com/hack2fun/BypassAV
+- [ ] https://github.com/Cliov/Arsenal
+- [ ] https://github.com/Gality369/CS-Loader
+- [ ] https://github.com/timwhitez/Doge-Loader
+- [ ] https://paper.seebug.org/1349/
+- [ ] https://github.com/Tylous/SourcePoint
 
 ## 0x07-CobaltStrike参考
