@@ -61,8 +61,7 @@
 
 - 原版程序
 - 破解程序
-- [ ] https://github.com/izj007/CrackSleeve
-
+  - https://github.com/izj007/CrackSleeve
 - 程序源码
 
 五、4.2版本
@@ -75,11 +74,10 @@
 
 - 原版程序
 - 破解程序
-- [ ] https://mp.weixin.qq.com/s/kdcqMoPv5f8tlkrk7s5PYA
-- [ ] https://mp.weixin.qq.com/s/D2q_8mi6wqk18Ox1QDcfxw
-
+  - https://mp.weixin.qq.com/s/kdcqMoPv5f8tlkrk7s5PYA
+  - https://mp.weixin.qq.com/s/D2q_8mi6wqk18Ox1QDcfxw
 - 程序源码
-- [ ] https://github.com/nice0e3/Cobaltstrike_4.3_Source
+  - https://github.com/nice0e3/Cobaltstrike_4.3_Source
 
 七、4.4版本
 
@@ -89,10 +87,11 @@
 
 ## 0x03-CobaltStrike脚本
 
-一、持久上线
-- [ ] [StayKit](https://github.com/0xthirteen/StayKit)
+一、脚本开发
 
-二、免杀处理
+二、持久上线
+
+- [ ] [StayKit](https://github.com/0xthirteen/StayKit)
 
 三、上线提醒
 - [ ] [CS_Mail_Tip](https://github.com/0x50j/CS_Mail_Tip)
@@ -246,6 +245,12 @@
 
 ## 0x04-CobaltStrike研究
 
+一、程序逆向
+
+二、源码阅读
+
+三、程序特征
+
 - [ ] https://github.com/WBGlIl/Beacon_re
 - [ ] https://github.com/NoOne-hub/Beacon.dll
 - [ ] https://github.com/boku7/whereami
@@ -253,13 +258,16 @@
 
 ## 0x05-CobaltStrike魔改
 
-一、程序逆向
+为什么需要魔改？需要魔改那些内容？如何进行程序魔改？
 
-二、源码阅读
+一、特征修改
 
-三、程序特征
+二、流量免杀
 
-四、程序魔改
+三、功能添加
+
+四、其他魔改
+
 - [ ] https://mp.weixin.qq.com/s/AePKPUDnBUr4WbJqvPCleg
 - [ ] https://github.com/Yang0615777/SecondaryDevCobaltStrike
 
