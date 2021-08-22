@@ -1,4 +1,4 @@
-# 《攻击神器CobaltStrike的艺术》
+# 《深入研究C2神器CobaltStrike》
 
 这里记录收集优秀的CobaltStrike内容，包括优秀的资源工具或优秀的项目代码等。本项目工具大部分都未检测是否存在后门，务必在虚拟机下运行。CobaltStrike思想是红队的未来。作者：[0e0w](https://github.com/0e0w)
 
@@ -18,7 +18,8 @@
 - https://github.com/topics/cobalt-strike
 - https://github.com/topics/cobaltstrike
 
-一、教程文档
+一、基础教程
+- [ ] https://wiki.wgpsec.org/knowledge/intranet/Cobalt-Strike.html
 
 二、视频教程
 
@@ -38,47 +39,53 @@
 
 ## 0x02-CobaltStrike程序
 
-一、3.x版本
+一、2.X版本
 
-二、4.0版本
+- 原版程序
+- 破解程序
+- 程序源码
 
-三、4.1版本
+二、3.X版本
 
-四、4.2版本
+- 原版程序
+- 破解程序
+- 程序源码
 
-五、4.3版本
+三、4.0版本
 
-六、4.4版本
+- 原版程序
+- 破解程序
+- 程序源码
 
-一、原版程序
+四、4.1版本
 
-- 4.4
-- 4.3
-- 4.2
-- 4.1
+- 原版程序
+- 破解程序
+- [ ] https://github.com/izj007/CrackSleeve
 
-二、程序破解
+- 程序源码
 
-- 4.4
-- 4.3
+五、4.2版本
 
+- 原版程序
+- 破解程序
+- 程序源码
+
+六、4.3版本
+
+- 原版程序
+- 破解程序
 - [ ] https://mp.weixin.qq.com/s/kdcqMoPv5f8tlkrk7s5PYA
 - [ ] https://mp.weixin.qq.com/s/D2q_8mi6wqk18Ox1QDcfxw
 
-- 4.2
-- 4.1
-
-- [ ] https://github.com/izj007/CrackSleeve
-
-三、程序源码
-
-- 4.4
-- 4.3
-
+- 程序源码
 - [ ] https://github.com/nice0e3/Cobaltstrike_4.3_Source
 
-- 4.2
-- 4.1
+七、4.4版本
+
+- 原版程序
+- 破解程序
+- 程序源码
 
 ## 0x03-CobaltStrike脚本
 
@@ -124,11 +131,9 @@
 - [ ] [Phant0m_cobaltstrike](https://github.com/p292/Phant0m_cobaltstrike)
 
 九、近源攻击
-
 - [ ] https://github.com/AdminTest0/badusb_cobaltstrike
 
 十、其他内容
-
 - [ ] https://github.com/bitsadmin/nopowershell
 - [ ] https://github.com/darkr4y/geacon
 - [ ] https://github.com/vysecurity/ANGRYPUPPY
@@ -248,16 +253,21 @@
 
 ## 0x05-CobaltStrike魔改
 
-一、二次开发
+一、程序逆向
+
+二、源码阅读
+
+三、程序特征
+
+四、程序魔改
 - [ ] https://mp.weixin.qq.com/s/AePKPUDnBUr4WbJqvPCleg
 - [ ] https://github.com/Yang0615777/SecondaryDevCobaltStrike
 
-二、流量免杀
-
 ## 0x06-CobaltStrike免杀
 
-一、shellcode免杀
+一、流量免杀
 
+二、上线免杀
 - [ ] https://github.com/hack2fun/BypassAV
 - [ ] https://github.com/Cliov/Arsenal
 - [ ] https://github.com/Gality369/CS-Loader
