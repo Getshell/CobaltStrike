@@ -2,7 +2,7 @@
 
 这里记录收集优秀的CobaltStrike内容，包括优秀的资源工具或优秀的项目代码等。本项目工具大部分都未检测是否存在后门，务必在虚拟机下运行。CobaltStrike思想是红队的未来。作者：[0e0w](https://github.com/0e0w)
 
-本项目创建时间为2021年8月3日。最近的一次更新时间为2021年8月25日。
+本项目创建时间为2021年8月3日。最近的一次更新时间为2021年8月26日。
 
 - [0x01-CobaltStrike资源]()
 - [0x02-CobaltStrike程序]()
@@ -37,6 +37,8 @@
 - [ ] [【知识回顾】Cobalt Strike 4.0 认证及修补过程](https://rcoil.me/2020/11/%E3%80%90%E7%9F%A5%E8%AF%86%E5%9B%9E%E9%A1%BE%E3%80%91Cobalt%20Strike%204.0%E8%AE%A4%E8%AF%81%E5%8F%8A%E4%BF%AE%E8%A1%A5%E8%BF%87%E7%A8%8B/)
 - [ ] [CobaltStrike4.0无Hook蛮力Cracked License思路](https://ca3tie1.github.io/post/cobaltstrike40-wu-hook-man-li-cracked-license-si-lu/)
 - [ ] https://github.com/Tw1sm/HTTPS-MalleableC2-Config
+- [ ] https://github.com/bashexplode/cs2webconfig
+- [ ] https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence
 
 ## 0x02-CobaltStrike程序
 
@@ -202,7 +204,6 @@
 - [ ] https://github.com/Ridter/CS_Chinese_support
 - [ ] https://github.com/0xthirteen/MoveKit
 - [ ] https://github.com/SecIdiot/Beacon
-- [ ] https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence
 - [ ] https://github.com/RCStep/CSSG
 - [ ] https://github.com/outflanknl/FindObjects-BOF
 - [ ] https://github.com/xx0hcd/Malleable-C2-Profiles
@@ -242,6 +243,9 @@
 - [ ] https://github.com/cisagov/ansible-role-cobalt-strike
 - [ ] https://github.com/dcsync/pycobalt
 - [ ] https://github.com/mgeeky/cobalt-arsenal
+- [ ] https://github.com/optiv/Registry-Recon
+- [ ] https://github.com/wgpsec/Automatic-permission-maintenance
+- [ ] https://github.com/threatexpress/random_c2_profile
 
 ## 0x04-CobaltStrike研究
 
