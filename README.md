@@ -2,7 +2,7 @@
 
 这里记录收集优秀的CobaltStrike内容，包括优秀的资源工具或优秀的项目代码等。本项目工具大部分都未检测是否存在后门，务必在虚拟机下运行。CobaltStrike思想是红队的未来。作者：[0e0w](https://github.com/0e0w)
 
-本项目创建时间为2021年8月3日。最近的一次更新时间为2021年8月27日。
+本项目创建时间为2021年8月3日。最近的一次更新时间为2021年8月28日。
 
 - [0x01-CobaltStrike资源]()
 - [0x02-CobaltStrike程序]()
@@ -40,6 +40,7 @@
 - [ ] https://github.com/bashexplode/cs2webconfig
 - [ ] https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence
 - [ ] https://github.com/cisagov/teamserver-packer
+- [ ] https://github.com/Cerbersec/DomainBorrowingC2
 
 ## 0x02-CobaltStrike程序
 
@@ -95,8 +96,10 @@
 一、脚本开发
 
 二、持久上线
-
 - [ ] [StayKit](https://github.com/0xthirteen/StayKit)
+
+- 虚拟上线
+- [ ] https://github.com/Doneone/happy_cs
 
 三、上线提醒
 - [ ] [CS_Mail_Tip](https://github.com/0x50j/CS_Mail_Tip)
@@ -248,6 +251,7 @@
 - [ ] https://github.com/wgpsec/Automatic-permission-maintenance
 - [ ] https://github.com/threatexpress/random_c2_profile
 - [ ] https://github.com/Kara-4search/APC_ShellcodeExecution_CSharp
+- [ ] https://github.com/fitzgeralddaniel/HTTP_File_Covert_Channel
 
 ## 0x04-CobaltStrike研究
 
@@ -287,5 +291,6 @@
 - [ ] https://github.com/timwhitez/Doge-Loader
 - [ ] https://paper.seebug.org/1349/
 - [ ] https://github.com/Tylous/SourcePoint
+- [ ] https://github.com/mgeeky/ElusiveMice
 
 ## 0x07-CobaltStrike参考
