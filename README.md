@@ -41,6 +41,7 @@
 - [ ] https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence
 - [ ] https://github.com/cisagov/teamserver-packer
 - [ ] https://github.com/Cerbersec/DomainBorrowingC2
+- [ ] https://github.com/vestjoe/cobaltstrike_services
 
 ## 0x02-CobaltStrike程序
 
