@@ -256,6 +256,8 @@
 - [ ] https://github.com/mgeeky/ElusiveMice
 - [ ] https://github.com/rvrsh3ll/BOF_Collection
 - [ ] https://github.com/lintstar/CS-ServerChan
+- [ ] https://github.com/0x3rhy/AddUser-Bof
+- [ ] https://github.com/darkoperator/vscode-language-aggressor
 
 ## 0x04-CobaltStrike研究
 
