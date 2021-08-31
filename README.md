@@ -1,16 +1,17 @@
-# 《C2神器之CobaltStrike》
+# 《C2优秀神器之Cobalt Strike》
 
 这里记录收集优秀的CobaltStrike内容，包括优秀的资源工具或优秀的项目代码等。本项目工具大部分都未检测是否存在后门，务必在虚拟机下运行。CobaltStrike思想是红队的未来。作者：[0e0w](https://github.com/0e0w)
 
-本项目创建时间为2021年8月3日。最近的一次更新时间为2021年8月30日。
+本项目创建时间为2021年8月3日。最近的一次更新时间为2021年8月31日。
 
-- [0x01-CobaltStrike资源]()
-- [0x02-CobaltStrike程序]()
-- [0x03-CobaltStrike脚本]()
-- [0x04-CobaltStrike研究]()
-- [0x05-CobaltStrike魔改]()
-- [0x06-CobaltStrike免杀]()
-- [0x07-CobaltStrike参考]()
+- [0x01-CobaltStrike资源](https://github.com/0e0w/Cobalt-Strike#0x01-cobaltstrike%E8%B5%84%E6%BA%90)
+- [0x02-CobaltStrike程序](https://github.com/0e0w/Cobalt-Strike#0x02-cobaltstrike%E7%A8%8B%E5%BA%8F)
+- [0x03-CobaltStrike功能](https://github.com/0e0w/Cobalt-Strike#0x03-cobaltstrike%E5%8A%9F%E8%83%BD)
+- [0x04-CobaltStrike脚本](https://github.com/0e0w/Cobalt-Strike#0x04-cobaltstrike%E5%8A%9F%E8%83%BD)
+- [0x05-CobaltStrike研究](https://github.com/0e0w/Cobalt-Strike#0x05-cobaltstrike%E7%A0%94%E7%A9%B6)
+- [0x06-CobaltStrike魔改](https://github.com/0e0w/Cobalt-Strike#0x06-cobaltstrike%E9%AD%94%E6%94%B9)
+- [0x07-CobaltStrike免杀](https://github.com/0e0w/Cobalt-Strike#0x07-cobaltstrike%E5%85%8D%E6%9D%80)
+- [0x08-CobaltStrike参考](https://github.com/0e0w/Cobalt-Strike#0x08-cobaltstrike%E5%8F%82%E8%80%83)
 
 ## 0x01-CobaltStrike资源
 
@@ -18,12 +19,15 @@
 - https://github.com/topics/cobalt-strike
 - https://github.com/topics/cobaltstrike
 
-一、基础教程
+一、官方手册
+- [ ] https://cobaltstrike.com/downloads/csmanual44.pdf
+
+二、基础教程
 - [ ] https://wiki.wgpsec.org/knowledge/intranet/Cobalt-Strike.html
 
-二、视频教程
+三、视频教程
 
-三、其他资源
+四、其他资源
 - [ ] https://github.com/vestjoe/cobaltstrike_services
 - [ ] https://github.com/S1ckB0y1337/Cobalt-Strike-CheatSheet
 - [ ] https://github.com/netero1010/Quser-BOF
@@ -42,6 +46,8 @@
 - [ ] https://github.com/cisagov/teamserver-packer
 - [ ] https://github.com/Cerbersec/DomainBorrowingC2
 - [ ] https://github.com/vestjoe/cobaltstrike_services
+- [ ] https://github.com/trustedsec/CS-Situational-Awareness-BOF
+- [ ] https://thedfirreport.com/2021/08/29/cobalt-strike-a-defenders-guide/
 
 ## 0x02-CobaltStrike程序
 
@@ -92,24 +98,34 @@
 - 破解程序
 - 程序源码
 
-## 0x03-CobaltStrike脚本
+## 0x03-CobaltStrike功能
+
+## 0x04-CobaltStrike脚本
+
+- https://github.com/topics/aggressor
 
 一、脚本开发
 
-二、持久上线
-- [ ] [StayKit](https://github.com/0xthirteen/StayKit)
+二、官方推荐
+- [ ] https://github.com/Cobalt-Strike/community_kit
 
-- 虚拟上线
-- [ ] https://github.com/Doneone/happy_cs
+三、免杀处理
 
-三、上线提醒
+四、上线提醒
 - [ ] [CS_Mail_Tip](https://github.com/0x50j/CS_Mail_Tip)
 - [ ] WeChatPush
 - [ ] https://github.com/Daybr4ak/C2ReverseProxy
 - [ ] https://github.com/teamssix/dingding_cs_notice
 - [ ] https://github.com/lintstar/CS-PushPlus
+- [ ] https://github.com/lintstar/CS-ServerChan
 
-四、综合框架
+五、持久上线
+- [ ] https://github.com/0xthirteen/StayKit
+- [ ] https://github.com/TheKingOfDuck/XSS-Fishing2-CS
+- 虚拟上线
+- [ ] https://github.com/Doneone/happy_cs
+
+六、综合框架
 - [ ] [taowu](https://github.com/pandasec888/taowu-cobalt-strike)
 - [ ] [Ladon](https://github.com/k8gege/Ladon)
 - [ ] [Aggressor](https://github.com/k8gege/Aggressor)
@@ -120,28 +136,28 @@
 - [ ] https://github.com/Adminisme/ServerScan
 - [ ] https://github.com/lintstar/LSTAR
 
-五、权限提升
+七、权限提升
 - [ ] weichi
 - [ ] [ElevateKit](https://github.com/rsmudge/ElevateKit)
 - [ ] [Aggressor-Script](https://github.com/rasta-mouse/Aggressor-Script)
 - [ ] [SweetPotato_CS](https://github.com/Tycx2ry/SweetPotato_CS)
 
-六、漏洞扫描
+八、漏洞扫描
 - [ ] [CVE-2018-4878](https://github.com/vysecurity/CVE-2018-4878)
 - [ ] [CVE-2020-0796](https://github.com/Rvn0xsy/CVE_2020_0796_CNA)
 - [ ] [MS17-010](https://github.com/phink-team/Cobaltstrike-MS17-010)
 
-七、流量隧道
+九、流量隧道
 - [ ] [UploadAndRunFrp](https://github.com/Ch1ngg/AggressorScript-UploadAndRunFrp)
 
-八、痕迹清理
+十、痕迹清理
 - [ ] [EventLogMaster](https://github.com/QAX-A-Team/EventLogMaster)
 - [ ] [Phant0m_cobaltstrike](https://github.com/p292/Phant0m_cobaltstrike)
 
-九、近源攻击
+十一、近源攻击
 - [ ] https://github.com/AdminTest0/badusb_cobaltstrike
 
-十、其他内容
+十二、其他内容
 - [ ] https://github.com/bitsadmin/nopowershell
 - [ ] https://github.com/darkr4y/geacon
 - [ ] https://github.com/vysecurity/ANGRYPUPPY
@@ -253,13 +269,11 @@
 - [ ] https://github.com/threatexpress/random_c2_profile
 - [ ] https://github.com/Kara-4search/APC_ShellcodeExecution_CSharp
 - [ ] https://github.com/fitzgeralddaniel/HTTP_File_Covert_Channel
-- [ ] https://github.com/mgeeky/ElusiveMice
 - [ ] https://github.com/rvrsh3ll/BOF_Collection
-- [ ] https://github.com/lintstar/CS-ServerChan
 - [ ] https://github.com/0x3rhy/AddUser-Bof
 - [ ] https://github.com/darkoperator/vscode-language-aggressor
 
-## 0x04-CobaltStrike研究
+## 0x05-CobaltStrike研究
 
 一、逆向分析
 - [ ] https://github.com/verctor/Cobalt_Homework
@@ -272,7 +286,7 @@
 - [ ] https://github.com/boku7/whereami
 - [ ] https://github.com/boku7/CobaltStrikeReflectiveLoader
 
-## 0x05-CobaltStrike魔改
+## 0x06-CobaltStrike魔改
 
 为什么需要魔改？需要魔改那些内容？如何进行程序魔改？
 
@@ -287,7 +301,7 @@
 - [ ] https://github.com/Yang0615777/SecondaryDevCobaltStrike
 - [ ] https://github.com/mai1zhi2/SharpBeacon
 
-## 0x06-CobaltStrike免杀
+## 0x07-CobaltStrike免杀
 
 一、流量免杀
 
@@ -299,5 +313,8 @@
 - [ ] https://paper.seebug.org/1349/
 - [ ] https://github.com/Tylous/SourcePoint
 - [ ] https://github.com/mgeeky/ElusiveMice
+- [ ] https://github.com/t3hbb/NSGenCS
 
-## 0x07-CobaltStrike参考
+## 0x08-CobaltStrike参考
+
+- https://www.cobaltstrike.com
