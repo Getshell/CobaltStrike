@@ -2,7 +2,7 @@
 
 这里记录收集优秀的CobaltStrike内容，包括优秀的资源工具或优秀的项目代码等。本项目工具大部分都未检测是否存在后门，务必在虚拟机下运行。CobaltStrike思想是红队的未来。作者：[0e0w](https://github.com/0e0w)
 
-本项目创建时间为2021年8月3日。最近的一次更新时间为2021年8月31日。
+本项目创建时间为2021年8月3日。最近的一次更新时间为2021年9月1日。
 
 - [0x01-CobaltStrike资源](https://github.com/0e0w/Cobalt-Strike#0x01-cobaltstrike%E8%B5%84%E6%BA%90)
 - [0x02-CobaltStrike程序](https://github.com/0e0w/Cobalt-Strike#0x02-cobaltstrike%E7%A8%8B%E5%BA%8F)
@@ -48,6 +48,7 @@
 - [ ] https://github.com/vestjoe/cobaltstrike_services
 - [ ] https://github.com/trustedsec/CS-Situational-Awareness-BOF
 - [ ] https://thedfirreport.com/2021/08/29/cobalt-strike-a-defenders-guide/
+- [ ] https://github.com/XRSec/Docker-CobaltStrike
 
 ## 0x02-CobaltStrike程序
 
@@ -272,6 +273,7 @@
 - [ ] https://github.com/rvrsh3ll/BOF_Collection
 - [ ] https://github.com/0x3rhy/AddUser-Bof
 - [ ] https://github.com/darkoperator/vscode-language-aggressor
+- [ ] https://github.com/med0x2e/SigFlip
 
 ## 0x05-CobaltStrike研究
 
