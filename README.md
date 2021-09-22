@@ -127,6 +127,7 @@
 - [ ] https://github.com/Doneone/happy_cs
 
 六、综合框架
+- [ ] [獬廌](https://github.com/0e0w/HAECHI)
 - [ ] [taowu](https://github.com/pandasec888/taowu-cobalt-strike)
 - [ ] [Ladon](https://github.com/k8gege/Ladon)
 - [ ] [Aggressor](https://github.com/k8gege/Aggressor)
@@ -274,6 +275,7 @@
 - [ ] https://github.com/0x3rhy/AddUser-Bof
 - [ ] https://github.com/darkoperator/vscode-language-aggressor
 - [ ] https://github.com/med0x2e/SigFlip
+- [ ] https://github.com/mstxq17/CVE-2021-1675_RDL_LPE
 
 ## 0x05-CobaltStrike研究
 
