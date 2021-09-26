@@ -127,16 +127,16 @@
 - [ ] https://github.com/Doneone/happy_cs
 
 六、综合框架
-- [ ] [獬廌](https://github.com/0e0w/HAECHI)
-- [ ] [taowu](https://github.com/pandasec888/taowu-cobalt-strike)
+- [x] [獬廌](https://github.com/0e0w/HAECHI)
+- [x] [梼杌](https://github.com/pandasec888/taowu-cobalt-strike)
+- [x] [LSTAR](https://github.com/lintstar/LSTAR)
+- [x] [Erebus](https://github.com/DeEpinGh0st/Erebus)
+- [ ] [巨龙拉冬](https://github.com/k8gege/Aggressor)
 - [ ] [Ladon](https://github.com/k8gege/Ladon)
-- [ ] [Aggressor](https://github.com/k8gege/Aggressor)
 - [ ] [CrossC2](https://github.com/gloxec/CrossC2)
-- [ ] [Erebus](https://github.com/DeEpinGh0st/Erebus)
 - [ ] [Cobalt-Strike-Aggressor-Scripts](https://github.com/timwhitez/Cobalt-Strike-Aggressor-Scripts)
 - [ ] https://github.com/wafinfo/cobaltstrike
 - [ ] https://github.com/Adminisme/ServerScan
-- [ ] https://github.com/lintstar/LSTAR
 
 七、权限提升
 - [ ] weichi
