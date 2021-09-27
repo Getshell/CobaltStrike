@@ -33,7 +33,6 @@
 - [ ] https://github.com/netero1010/Quser-BOF
 - [ ] https://github.com/netero1010/TrustedPath-UACBypass-BOF
 - [ ] https://github.com/cisagov/ansible-role-cobalt-strike
-- [ ] https://github.com/zer0yu/Awesome-CobaltStrike
 - [ ] https://github.com/hattmo/c2profilejs
 - [ ] https://github.com/jan-call/Cobaltstrike-Plugins
 - [ ] https://github.com/REW-sploit/REW-sploit
@@ -104,6 +103,7 @@
 ## 0x04-CobaltStrike脚本
 
 - https://github.com/topics/aggressor
+- https://github.com/zer0yu/Awesome-CobaltStrike
 
 一、脚本开发
 
@@ -127,7 +127,7 @@
 - [ ] https://github.com/Doneone/happy_cs
 
 六、综合框架
-- [x] [獬廌](https://github.com/0e0w/HAECHI)
+- [x] [神器獬廌](https://github.com/0e0w/HAECHI)
 - [x] [梼杌](https://github.com/pandasec888/taowu-cobalt-strike)
 - [x] [LSTAR](https://github.com/lintstar/LSTAR)
 - [x] [Erebus](https://github.com/DeEpinGh0st/Erebus)
@@ -137,6 +137,7 @@
 - [ ] [Cobalt-Strike-Aggressor-Scripts](https://github.com/timwhitez/Cobalt-Strike-Aggressor-Scripts)
 - [ ] https://github.com/wafinfo/cobaltstrike
 - [ ] https://github.com/Adminisme/ServerScan
+- [ ] https://github.com/SeaOf0/CSplugins
 
 七、权限提升
 - [ ] weichi
@@ -240,7 +241,6 @@
 - [ ] https://github.com/mgeeky/RedWarden
 - [ ] https://github.com/Lz1y/GECC
 - [ ] https://github.com/Daybr4ak/C2ReverseProxy
-- [ ] https://github.com/RCStep/CSSG
 - [ ] https://github.com/Twi1ight/CSAgent
 - [ ] https://github.com/ORCA666/Cobalt-Wipe
 - [ ] https://github.com/vestjoe/cobaltstrike_services
