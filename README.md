@@ -49,6 +49,7 @@
 - [ ] https://thedfirreport.com/2021/08/29/cobalt-strike-a-defenders-guide/
 - [ ] https://github.com/XRSec/Docker-CobaltStrike
 - [ ] https://wbglil.gitbook.io/cobalt-strike
+- [ ] https://github.com/akkuman/EvilEye
 
 ## 0x02-CobaltStrike程序
 
