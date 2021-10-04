@@ -2,7 +2,7 @@
 
 这里记录收集优秀的CobaltStrike内容，包括优秀的资源工具或优秀的项目代码等。本项目工具大部分都未检测是否存在后门，务必在虚拟机下运行。CobaltStrike思想是红队的未来。作者：[0e0w](https://github.com/0e0w)
 
-本项目创建时间为2021年8月3日。最近的一次更新时间为2021年10月2日。
+本项目创建时间为2021年8月3日。最近的一次更新时间为2021年10月4日。
 
 - [0x01-CobaltStrike资源](https://github.com/0e0w/Cobalt-Strike#0x01-cobaltstrike%E8%B5%84%E6%BA%90)
 - [0x02-CobaltStrike程序](https://github.com/0e0w/Cobalt-Strike#0x02-cobaltstrike%E7%A8%8B%E5%BA%8F)
@@ -139,6 +139,7 @@
 - [ ] [巨龙拉冬](https://github.com/k8gege/Aggressor)
 - [ ] [Ladon](https://github.com/k8gege/Ladon)
 - [ ] [CrossC2](https://github.com/gloxec/CrossC2)
+- [ ] https://github.com/darkr4y/geacon
 - [ ] [Cobalt-Strike-Aggressor-Scripts](https://github.com/timwhitez/Cobalt-Strike-Aggressor-Scripts)
 - [ ] https://github.com/wafinfo/cobaltstrike
 - [ ] https://github.com/Adminisme/ServerScan
@@ -167,7 +168,6 @@
 
 十二、其他内容
 - [ ] https://github.com/bitsadmin/nopowershell
-- [ ] https://github.com/darkr4y/geacon
 - [ ] https://github.com/vysecurity/ANGRYPUPPY
 - [ ] https://github.com/001SPARTaN/aggressor_scripts
 - [ ] https://github.com/harleyQu1nn/AggressorScripts
@@ -187,9 +187,7 @@
 - [ ] https://github.com/outflanknl/Zipper
 - [ ] https://github.com/outflanknl/Spray-AD
 - [ ] https://github.com/Apr4h/CobaltStrikeScan
-- [ ] https://github.com/darkr4y/geacon
 - [ ] https://github.com/SecIdiot/CobaltPatch
-- [ ] https://github.com/darkr4y/geacon
 - [ ] https://github.com/m57/cobaltstrike_bofs
 - [ ] https://github.com/killswitch-GUI/CobaltStrike-ToolKit
 - [ ] https://github.com/Rvn0xsy/Cobaltstrike-atexec
@@ -284,6 +282,10 @@
 - [ ] https://github.com/outflanknl/external_c2
 - [ ] https://github.com/AttackTeamFamily/cobaltstrike-bof-toolset
 - [ ] https://github.com/wikiZ/service_cobaltstrike
+- [ ] https://github.com/EspressoCake/Self_Deletion_BOF
+- [ ] https://github.com/SpiderLabs/DoHC2
+- [ ] https://github.com/outflanknl/external_c2
+- [ ] https://github.com/Und3rf10w/external_c2_framework
 
 ## 0x05-CobaltStrike研究
 
