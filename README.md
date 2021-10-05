@@ -116,6 +116,7 @@
 - [ ] https://github.com/Cobalt-Strike/community_kit
 
 三、免杀处理
+- [ ] https://github.com/GeorgePatsias/ScareCrow-CobaltStrike
 
 四、上线提醒
 - [ ] [CS_Mail_Tip](https://github.com/0x50j/CS_Mail_Tip)
