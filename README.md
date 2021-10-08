@@ -2,7 +2,7 @@
 
 这里记录收集优秀的CobaltStrike内容，包括优秀的资源工具或优秀的项目代码等。本项目工具大部分都未检测是否存在后门，务必在虚拟机下运行。CobaltStrike思想是红队的未来。作者：[0e0w](https://github.com/0e0w)
 
-本项目创建时间为2021年8月3日。最近的一次更新时间为2021年10月7日。
+本项目创建时间为2021年8月3日。最近的一次更新时间为2021年10月8日。
 
 - [0x01-CobaltStrike资源](https://github.com/0e0w/Cobalt-Strike#0x01-cobaltstrike%E8%B5%84%E6%BA%90)
 - [0x02-CobaltStrike程序](https://github.com/0e0w/Cobalt-Strike#0x02-cobaltstrike%E7%A8%8B%E5%BA%8F)
@@ -288,6 +288,7 @@
 - [ ] https://github.com/outflanknl/external_c2
 - [ ] https://github.com/Und3rf10w/external_c2_framework
 - [ ] https://github.com/med0x2e/ExecuteAssembly
+- [ ] https://github.com/chryzsh/ansible-role-cobalt-strike
 
 ## 0x05-CobaltStrike研究
 
