@@ -347,7 +347,6 @@
 - [ ] https://github.com/dcsync/pycobalt
 - [ ] https://github.com/optiv/Registry-Recon
 - [ ] https://github.com/wgpsec/Automatic-permission-maintenance
-- [ ] https://github.com/threatexpress/random_c2_profile
 - [ ] https://github.com/Kara-4search/APC_ShellcodeExecution_CSharp
 - [ ] https://github.com/fitzgeralddaniel/HTTP_File_Covert_Channel
 - [ ] https://github.com/med0x2e/SigFlip
@@ -382,6 +381,7 @@
 - [ ] https://mp.weixin.qq.com/s/AePKPUDnBUr4WbJqvPCleg
 - [ ] https://github.com/Yang0615777/SecondaryDevCobaltStrike
 - [ ] https://github.com/mai1zhi2/SharpBeacon
+- [ ] https://github.com/HKirito/GoogleAuth
 
 ## 0x07-CobaltStrike免杀
 
