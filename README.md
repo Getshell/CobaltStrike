@@ -2,7 +2,7 @@
 
 这里记录收集优秀的CobaltStrike内容，包括优秀的资源工具或优秀的项目代码等。本项目工具大部分都未检测是否存在后门，务必在虚拟机下运行。CobaltStrike思想是红队的未来。作者：[0e0w](https://github.com/0e0w)
 
-本项目创建时间为2021年8月3日。最近的一次更新时间为2021年10月21日。
+本项目创建时间为2021年8月3日。最近的一次更新时间为2021年10月25日。
 
 - [0x01-CobaltStrike资源](https://github.com/0e0w/Cobalt-Strike#0x01-cobaltstrike%E8%B5%84%E6%BA%90)
 - [0x02-CobaltStrike程序](https://github.com/0e0w/Cobalt-Strike#0x02-cobaltstrike%E7%A8%8B%E5%BA%8F)
@@ -152,6 +152,7 @@
 - [ ] https://github.com/boku7/CobaltStrikeReflectiveLoader
 
 **四、BOFs：Beacon Object Files**
+
 - https://github.com/topics/bof
 - [ ] https://github.com/EspressoCake/Needle_Sift_BOF
 - [ ] https://github.com/trustedsec/CS-Situational-Awareness-BOF
@@ -198,8 +199,10 @@
 - [ ] https://github.com/mez-0/winrmdll
 - [ ] https://github.com/hlldz/Phant0m
 - [ ] https://github.com/EspressoCake/HandleKatz_BOF
+- [ ] https://github.com/med0x2e/ExecuteAssembly
 
 **五、Aggressor Scripts**
+
 - https://github.com/topics/aggressor
 - [ ] https://github.com/001SPARTaN/aggressor_scripts
 - [ ] https://github.com/harleyQu1nn/AggressorScripts
@@ -221,6 +224,7 @@
 - [ ] https://github.com/Und3rf10w/Aggressor-scripts
 - [ ] https://github.com/vysecurity/Aggressor-VYSEC
 - [ ] https://github.com/rasta-mouse/Aggressor-Script
+- [ ] https://github.com/422926799/csplugin
 - 上线提醒
 - [ ] [CS_Mail_Tip](https://github.com/0x50j/CS_Mail_Tip)
 - [ ] WeChatPush
@@ -354,7 +358,6 @@
 - [ ] https://github.com/mstxq17/CVE-2021-1675_RDL_LPE
 - [ ] https://github.com/CPO-EH/SharpZeroLogon
 - [ ] https://github.com/wikiZ/service_cobaltstrike
-- [ ] https://github.com/med0x2e/ExecuteAssembly
 - [ ] https://github.com/chryzsh/ansible-role-cobalt-strike
 - [ ] https://github.com/kingz40o/Aggressor_dingding
 - [ ] https://github.com/howmp/CobaltStrikeDetect
