@@ -2,7 +2,7 @@
 
 这里记录收集优秀的CobaltStrike内容，包括优秀的资源工具或优秀的项目代码等。本项目工具大部分都未检测是否存在后门，务必在虚拟机下运行。CobaltStrike思想是红队的未来。作者：[0e0w](https://github.com/0e0w)
 
-本项目创建时间为2021年8月3日。最近的一次更新时间为2021年10月26日。
+本项目创建时间为2021年8月3日。最近的一次更新时间为2021年10月27日。
 
 - [0x01-CobaltStrike资源](https://github.com/0e0w/Cobalt-Strike#0x01-cobaltstrike%E8%B5%84%E6%BA%90)
 - [0x02-CobaltStrike程序](https://github.com/0e0w/Cobalt-Strike#0x02-cobaltstrike%E7%A8%8B%E5%BA%8F)
@@ -205,6 +205,7 @@
 
 - https://github.com/topics/aggressor
 - [ ] https://github.com/001SPARTaN/aggressor_scripts
+- [ ] https://github.com/0x727/AggressorScripts_0x727
 - [ ] https://github.com/harleyQu1nn/AggressorScripts
 - [ ] https://github.com/bluscreenofjeff/AggressorScripts
 - [ ] https://github.com/jordanpotti/opsec-aggressor
@@ -342,7 +343,6 @@
 - [ ] https://github.com/burpheart/CS_mock
 - [ ] https://github.com/huoji120/CobaltStrikeDetected
 - [ ] https://github.com/Mikasazero/Cobalt-Strike
-- [ ] https://github.com/0x727/AggressorScripts_0x727
 - [ ] https://github.com/D1sAbl4/samdump
 - [ ] https://github.com/ASkyeye/CobaltPatch
 - [ ] https://github.com/boku7/halosgate-ps
@@ -362,6 +362,7 @@
 - [ ] https://github.com/chryzsh/ansible-role-cobalt-strike
 - [ ] https://github.com/kingz40o/Aggressor_dingding
 - [ ] https://github.com/howmp/CobaltStrikeDetect
+- [ ] https://github.com/JUICY00000/HellLoader
 
 ## 0x05-CobaltStrike研究
 
