@@ -203,6 +203,7 @@
 - [ ] https://github.com/med0x2e/ExecuteAssembly
 - [ ] https://github.com/praetorian-inc/PortBender
 - [ ] https://github.com/FalconForceTeam/BOF2shellcode
+- [ ] https://github.com/EspressoCake/DLL-Hijack-Search-Order-BOF
 
 **五、Aggressor Scripts**
 
