@@ -2,7 +2,7 @@
 
 这里记录收集优秀的CobaltStrike内容，包括优秀的资源工具或优秀的项目代码等。本项目工具大部分都未检测是否存在后门，务必在虚拟机下运行。CobaltStrike思想是红队的未来。作者：[0e0w](https://github.com/0e0w)
 
-本项目创建时间为2021年8月3日。最近的一次更新时间为2021年11月11日。
+本项目创建时间为2021年8月3日。最近的一次更新时间为2021年11月13日。
 
 - [0x01-CobaltStrike资源](https://github.com/0e0w/Cobalt-Strike#0x01-cobaltstrike%E8%B5%84%E6%BA%90)
 - [0x02-CobaltStrike程序](https://github.com/0e0w/Cobalt-Strike#0x02-cobaltstrike%E7%A8%8B%E5%BA%8F)
@@ -147,6 +147,7 @@
 - [ ] https://github.com/mdsecactivebreach/Browser-ExternalC2
 - [ ] https://github.com/SpiderLabs/DoHC2
 - [ ] https://github.com/outflanknl/external_c2
+- [ ] https://github.com/rasta-mouse/ExternalC2.NET
 
 **三、UDRL：User Defined Reflective Loader**
 - [ ] https://github.com/mgeeky/ElusiveMice
@@ -154,7 +155,6 @@
 - [ ] https://github.com/boku7/CobaltStrikeReflectiveLoader
 
 **四、BOFs：Beacon Object Files**
-
 - https://github.com/topics/bof
 - [ ] https://github.com/EspressoCake/Needle_Sift_BOF
 - [ ] https://github.com/trustedsec/CS-Situational-Awareness-BOF
@@ -206,9 +206,9 @@
 - [ ] https://github.com/FalconForceTeam/BOF2shellcode
 - [ ] https://github.com/EspressoCake/DLL-Hijack-Search-Order-BOF
 - [ ] https://github.com/lengjibo/NetUser
+- [ ] https://github.com/DongHuangT1/Geacon
 
 **五、Aggressor Scripts**
-
 - https://github.com/topics/aggressor
 - [ ] https://github.com/001SPARTaN/aggressor_scripts
 - [ ] https://github.com/0x727/AggressorScripts_0x727
@@ -262,7 +262,6 @@
 - [ ] https://github.com/AdminTest0/badusb_cobaltstrike
 
 **六、Kit**
-
 - [x] [神器獬廌](https://github.com/0e0w/HAECHI)
 - [x] [梼杌](https://github.com/pandasec888/taowu-cobalt-strike)
 - [x] [LSTAR](https://github.com/lintstar/LSTAR)
@@ -278,7 +277,6 @@
 - [ ] https://github.com/SeaOf0/CSplugins
 
 十二、其他内容
-
 - [ ] https://github.com/bitsadmin/nopowershell
 - [ ] https://github.com/vysecurity/ANGRYPUPPY
 - [ ] https://github.com/TheKingOfDuck/XSS-Fishing2-CS
@@ -401,6 +399,7 @@
 ## 0x07-CobaltStrike免杀
 
 一、流量免杀
+- [ ] https://github.com/timwhitez/Doge-CSBridge
 
 二、上线免杀
 - [ ] https://github.com/hack2fun/BypassAV
