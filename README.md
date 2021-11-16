@@ -2,7 +2,7 @@
 
 这里记录收集优秀的CobaltStrike内容，包括优秀的资源工具或优秀的项目代码等。本项目工具大部分都未检测是否存在后门，务必在虚拟机下运行。CobaltStrike思想是红队的未来。作者：[0e0w](https://github.com/0e0w)
 
-本项目创建时间为2021年8月3日。最近的一次更新时间为2021年11月16日。
+本项目创建时间为2021年8月3日。最近的一次更新时间为2021年11月17日。
 
 - [0x01-CobaltStrike资源](https://github.com/0e0w/Cobalt-Strike#0x01-cobaltstrike%E8%B5%84%E6%BA%90)
 - [0x02-CobaltStrike程序](https://github.com/0e0w/Cobalt-Strike#0x02-cobaltstrike%E7%A8%8B%E5%BA%8F)
@@ -207,6 +207,7 @@
 - [ ] https://github.com/EspressoCake/DLL-Hijack-Search-Order-BOF
 - [ ] https://github.com/lengjibo/NetUser
 - [ ] https://github.com/DongHuangT1/Geacon
+- [ ] https://github.com/Sh0ckFR/InlineWhispers2
 
 **五、Aggressor Scripts**
 - https://github.com/topics/aggressor
@@ -275,8 +276,9 @@
 - [ ] https://github.com/wafinfo/cobaltstrike
 - [ ] https://github.com/Adminisme/ServerScan
 - [ ] https://github.com/SeaOf0/CSplugins
+- [ ] https://github.com/k1d0ne/cobaltstrike_plugin
 
-十二、其他内容
+七、其他内容
 - [ ] https://github.com/bitsadmin/nopowershell
 - [ ] https://github.com/vysecurity/ANGRYPUPPY
 - [ ] https://github.com/TheKingOfDuck/XSS-Fishing2-CS
