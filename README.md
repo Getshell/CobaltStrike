@@ -1,19 +1,19 @@
-# 《C2优秀神器之Cobalt Strike》
+# Cobalt Strike
 
-这里记录收集优秀的CobaltStrike内容，包括优秀的资源工具或优秀的项目代码等。本项目工具大部分都未检测是否存在后门，务必在虚拟机下运行。CobaltStrike思想是红队的未来。作者：[0e0w](https://github.com/0e0w)
+这里记录收集优秀的CobaltStrike内容，包括优秀的资源工具或优秀的项目代码等。本项目大部分工具都未检测是否存在后门，务必在虚拟机下运行。CobaltStrike思想是攻击者的进步。作者：[0e0w](https://github.com/0e0w)
 
-本项目创建时间为2021年8月3日。最近的一次更新时间为2022年1月14日。
+本项目创建时间为2021年8月3日。最近的一次更新时间为2022年1月27日。
 
-- [0x01-CobaltStrike资源](https://github.com/0e0w/Cobalt-Strike#0x01-cobaltstrike%E8%B5%84%E6%BA%90)
-- [0x02-CobaltStrike程序](https://github.com/0e0w/Cobalt-Strike#0x02-cobaltstrike%E7%A8%8B%E5%BA%8F)
-- [0x03-CobaltStrike功能](https://github.com/0e0w/Cobalt-Strike#0x03-cobaltstrike%E5%8A%9F%E8%83%BD)
-- [0x04-CobaltStrike扩展](https://github.com/0e0w/Cobalt-Strike#0x04-cobaltstrike%E6%89%A9%E5%B1%95)
-- [0x05-CobaltStrike研究](https://github.com/0e0w/Cobalt-Strike#0x05-cobaltstrike%E7%A0%94%E7%A9%B6)
-- [0x06-CobaltStrike魔改](https://github.com/0e0w/Cobalt-Strike#0x06-cobaltstrike%E9%AD%94%E6%94%B9)
-- [0x07-CobaltStrike免杀](https://github.com/0e0w/Cobalt-Strike#0x07-cobaltstrike%E5%85%8D%E6%9D%80)
-- [0x08-CobaltStrike参考](https://github.com/0e0w/Cobalt-Strike#0x08-cobaltstrike%E5%8F%82%E8%80%83)
+- [01-CobaltStrike资源](https://github.com/0e0w/Cobalt-Strike#0x01-cobaltstrike%E8%B5%84%E6%BA%90)
+- [02-CobaltStrike程序](https://github.com/0e0w/Cobalt-Strike#0x02-cobaltstrike%E7%A8%8B%E5%BA%8F)
+- [03-CobaltStrike功能](https://github.com/0e0w/Cobalt-Strike#0x03-cobaltstrike%E5%8A%9F%E8%83%BD)
+- [04-CobaltStrike扩展](https://github.com/0e0w/Cobalt-Strike#0x04-cobaltstrike%E6%89%A9%E5%B1%95)
+- [05-CobaltStrike研究](https://github.com/0e0w/Cobalt-Strike#0x05-cobaltstrike%E7%A0%94%E7%A9%B6)
+- [06-CobaltStrike魔改](https://github.com/0e0w/Cobalt-Strike#0x06-cobaltstrike%E9%AD%94%E6%94%B9)
+- [07-CobaltStrike免杀](https://github.com/0e0w/Cobalt-Strike#0x07-cobaltstrike%E5%85%8D%E6%9D%80)
+- [08-CobaltStrike参考](https://github.com/0e0w/Cobalt-Strike#0x08-cobaltstrike%E5%8F%82%E8%80%83)
 
-## 0x01-CobaltStrike资源
+## 01-CobaltStrike资源
 
 - https://github.com/search?q=CobaltStrike
 - https://github.com/topics/cobalt-strike
@@ -50,82 +50,17 @@
 - [ ] https://github.com/AlphabugX/csOnvps
 - [ ] https://github.com/warhorse/ansible-role-cobaltstrike-docker
 
-## 0x02-CobaltStrike程序
-<details>
-<summary>一、2.X版本</summary>
+## 02-CobaltStrike程序
 
-- 原版程序
+- https://github.com/izj007/CrackSleeve
+- https://github.com/mai1zhi2/CobaltstrikeSource
+- https://mp.weixin.qq.com/s/kdcqMoPv5f8tlkrk7s5PYA
+- https://mp.weixin.qq.com/s/D2q_8mi6wqk18Ox1QDcfxw
+- https://github.com/nice0e3/Cobaltstrike_4.3_Source
 
-- 破解程序
+## 03-CobaltStrike功能
 
-- 程序源码
-  
-
-</details>
-
-<details>
-<summary>二、3.X版本</summary>
-
-- 原版程序
-
-- 破解程序
-
-- 程序源码
-  
-
-</details>
-
-<details>
-<summary>三、4.X版本</summary>
-
-- 原版程序
-
-- 破解程序
-
-- 程序源码
-  
-
-</details>
-<details>
-<summary>四、4.1版本</summary>
-
-- 原版程序
-- 破解程序
-  
-  - https://github.com/izj007/CrackSleeve
-- 程序源码
-  - https://github.com/mai1zhi2/CobaltstrikeSource
-
-    </details>
-<details>
-<summary>五、4.2版本</summary>
-
-- 原版程序
-- 破解程序
-- 程序源码
-</details>
-<details>
-<summary>六、4.3版本</summary>
-
-- 原版程序
-- 破解程序
-  - https://mp.weixin.qq.com/s/kdcqMoPv5f8tlkrk7s5PYA
-  - https://mp.weixin.qq.com/s/D2q_8mi6wqk18Ox1QDcfxw
-- 程序源码
-  - https://github.com/nice0e3/Cobaltstrike_4.3_Source
-</details>
-
-<details>
-<summary>七、4.4版本</summary>
-
-- 原版程序
-- 破解程序
-- 程序源码
-</details>
-
-## 0x03-CobaltStrike功能
-
-## 0x04-CobaltStrike扩展
+## 04-CobaltStrike扩展
 
 - https://github.com/zer0yu/Awesome-CobaltStrike
 - https://www.cobaltstrike.com/aggressor-script/index.html
@@ -134,7 +69,7 @@
 - https://github.com/Cobalt-Strike/community_kit
 - https://cobalt-strike.github.io/community_kit
 
-**一、Malleable-C2**
+一、Malleable-C2
 - [ ] https://github.com/Tylous/SourcePoint
 - [ ] https://github.com/FortyNorthSecurity/C2concealer
 - [ ] https://github.com/threatexpress/malleable-c2
@@ -144,82 +79,23 @@
 - [ ] https://github.com/rsmudge/Malleable-C2-Profiles
 - [ ] https://github.com/threatexpress/random_c2_profile
 
-**二、External-C2**
+二、External-C2
 - [ ] https://github.com/Und3rf10w/external_c2_framework
 - [ ] https://github.com/mdsecactivebreach/Browser-ExternalC2
 - [ ] https://github.com/SpiderLabs/DoHC2
 - [ ] https://github.com/outflanknl/external_c2
 - [ ] https://github.com/rasta-mouse/ExternalC2.NET
 
-**三、UDRL：User Defined Reflective Loader**
+三、UDRL：User Defined Reflective Loader
 - [ ] https://github.com/mgeeky/ElusiveMice
 - [ ] https://github.com/SecIdiot/TitanLdr
 - [ ] https://github.com/boku7/CobaltStrikeReflectiveLoader
 
-**四、BOFs：Beacon Object Files**
-
+四、BOFs：Beacon Object Files
 - https://github.com/topics/bof
-- [ ] https://github.com/EspressoCake/Needle_Sift_BOF
-- [ ] https://github.com/trustedsec/CS-Situational-Awareness-BOF
-- [ ] https://github.com/m57/cobaltstrike_bofs
-- [ ] https://github.com/CCob/BOF.NET
-- [ ] https://github.com/outflanknl/FindObjects-BOF
-- [ ] https://github.com/rvrsh3ll/BOF_Collection
-- [ ] https://github.com/0x3rhy/AddUser-Bof
-- [ ] https://github.com/AttackTeamFamily/cobaltstrike-bof-toolset
-- [ ] https://github.com/EspressoCake/Self_Deletion_BOF
-- [ ] https://github.com/netero1010/Quser-BOF
-- [ ] https://github.com/netero1010/TrustedPath-UACBypass-BOF
-- [ ] https://github.com/Cobalt-Strike/unhook-bof
-- [ ] https://github.com/rsmudge/unhook-bof
-- [ ] https://github.com/boku7/injectEtwBypass
-- [ ] https://github.com/EspressoCake/PPLDump_BOF
-- [ ] https://github.com/outflanknl/WdToggle
-- [ ] https://github.com/ajpc500/BOFs
-- [ ] https://github.com/EspressoCake/Toggle_Token_Privileges_BOF
-- [ ] https://github.com/RiccardoAncarani/BOFs
-- [ ] https://github.com/ceramicskate0/BOF-Builder
-- [ ] https://github.com/apokryptein/secinject
-- [ ] https://github.com/EspressoCake/Process_Protection_Level_BOF
-- [ ] https://github.com/boku7/spawn
-- [ ] https://github.com/trainr3kt/MemReader_BoF
-- [ ] https://github.com/boku7/whereami
-- [ ] https://github.com/boku7/HOLLOW
-- [ ] https://github.com/boku7/injectAmsiBypass
-- [ ] https://github.com/netero1010/ServiceMove-BOF
-- [ ] https://github.com/xforcered/Detect-Hooks
-- [ ] https://github.com/anthemtotheego/Detect-Hooks
-- [ ] https://github.com/Yaxser/CobaltStrike-BOF
-- [ ] https://github.com/xforcered/CredBandit
-- [ ] https://github.com/anthemtotheego/CredBandit
-- [ ] https://github.com/xforcered/InlineExecute-Assembly
-- [ ] https://github.com/anthemtotheego/InlineExecute-Assembly
-- [ ] https://github.com/trainr3kt/Readfile_BoF
-- [ ] https://github.com/crypt0p3g/bof-collection
-- [ ] https://github.com/outflanknl/InlineWhispers
-- [ ] https://github.com/Cobalt-Strike/ZeroLogon-BOF
-- [ ] https://github.com/rsmudge/ZeroLogon-BOF
-- [ ] https://github.com/tomcarver16/BOF-DLL-Inject
-- [ ] https://github.com/dtmsecurity/bof_helper
-- [ ] https://github.com/mez-0/winrmdll
-- [ ] https://github.com/hlldz/Phant0m
-- [ ] https://github.com/EspressoCake/HandleKatz_BOF
-- [ ] https://github.com/med0x2e/ExecuteAssembly
-- [ ] https://github.com/praetorian-inc/PortBender
-- [ ] https://github.com/FalconForceTeam/BOF2shellcode
-- [ ] https://github.com/EspressoCake/DLL-Hijack-Search-Order-BOF
-- [ ] https://github.com/lengjibo/NetUser
-- [ ] https://github.com/DongHuangT1/Geacon
-- [ ] https://github.com/Sh0ckFR/InlineWhispers2
-- [ ] https://github.com/securifybv/Visual-Studio-BOF-template
-- [ ] https://github.com/connormcgarr/tgtdelegation
-- [ ] https://github.com/boku7/xPipe
-- [ ] https://github.com/airbus-cert/Invoke-Bof
-- [ ] https://github.com/DallasFR/Cobalt-Clip
-- [ ] https://github.com/Yaxser/COFFLoader2
-- [ ] https://github.com/boku7/BokuLoader
+- https://github.com/BOFs/BOFs
 
-**五、Aggressor Scripts**
+五、Aggressor Scripts
 - https://github.com/topics/aggressor
 - [ ] https://github.com/001SPARTaN/aggressor_scripts
 - [ ] https://github.com/0x727/AggressorScripts_0x727
@@ -274,8 +150,8 @@
 - 近源攻击
 - [ ] https://github.com/AdminTest0/badusb_cobaltstrike
 
-**六、Kit**
-- [x] [神器獬廌](https://github.com/0e0w/HAECHI)
+六、Kit
+- [x] [神器獬廌](https://github.com/BOFs/HAETAE)
 - [x] [梼杌](https://github.com/pandasec888/taowu-cobalt-strike)
 - [x] [LSTAR](https://github.com/lintstar/LSTAR)
 - [x] [Erebus](https://github.com/DeEpinGh0st/Erebus)
@@ -383,7 +259,7 @@
 - [ ] https://github.com/JUICY00000/HellLoader
 - [ ] https://github.com/Peithon/JustC2file
 
-## 0x05-CobaltStrike研究
+## 05-CobaltStrike研究
 
 一、逆向分析
 - [ ] https://github.com/verctor/Cobalt_Homework
@@ -394,7 +270,7 @@
 - [ ] https://github.com/WBGlIl/Beacon_re
 - [ ] https://github.com/NoOne-hub/Beacon.dll
 
-## 0x06-CobaltStrike魔改
+## 06-CobaltStrike魔改
 
 为什么需要魔改？需要魔改那些内容？如何进行程序魔改？
 
@@ -411,12 +287,13 @@
 - [ ] https://github.com/HKirito/GoogleAuth
 - [ ] https://github.com/Cobalt-Strike/sleep_python_bridge
 
-## 0x07-CobaltStrike免杀
+## 07-CobaltStrike免杀
 
 一、流量免杀
 - [ ] https://github.com/timwhitez/Doge-CSBridge
 
 二、上线免杀
+- https://github.com/0e0w/BypassAV
 - [ ] https://github.com/hack2fun/BypassAV
 - [ ] https://github.com/Cliov/Arsenal
 - [ ] https://github.com/Gality369/CS-Loader
@@ -427,6 +304,9 @@
 - [ ] https://wiki.ioin.in/url/G7PK
 - [ ] https://github.com/novysodope/Myloader
 
-## 0x08-CobaltStrike参考
+## 08-CobaltStrike参考
 
 - https://www.cobaltstrike.com
+
+[![Stargazers over time](https://starchart.cc//BOFs/CobaltStrike.svg)](https://starchart.cc/BOFs/CobaltStrike)
+
