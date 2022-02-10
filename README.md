@@ -2,7 +2,7 @@
 
 这里记录收集优秀的CobaltStrike内容，包括优秀的资源工具或优秀的项目代码等。本项目大部分工具都未检测是否存在后门，务必在虚拟机下运行。CobaltStrike思想是攻击者的进步。作者：[0e0w](https://github.com/0e0w)
 
-本项目创建时间为2021年8月3日。最近的一次更新时间为2022年2月5日。
+本项目创建时间为2021年8月3日。最近的一次更新时间为2022年2月10日。
 
 - [01-CobaltStrike资源](https://github.com/0e0w/Cobalt-Strike#0x01-cobaltstrike%E8%B5%84%E6%BA%90)
 - [02-CobaltStrike程序](https://github.com/0e0w/Cobalt-Strike#0x02-cobaltstrike%E7%A8%8B%E5%BA%8F)
@@ -85,6 +85,7 @@
 - [ ] https://github.com/SpiderLabs/DoHC2
 - [ ] https://github.com/outflanknl/external_c2
 - [ ] https://github.com/rasta-mouse/ExternalC2.NET
+- [ ] https://github.com/Flangvik/CobaltBus
 
 三、UDRL：User Defined Reflective Loader
 - [ ] https://github.com/mgeeky/ElusiveMice
