@@ -2,7 +2,7 @@
 
 这里记录收集优秀的CobaltStrike内容，包括优秀的资源工具或优秀的项目代码等。本项目大部分工具都未检测是否存在后门，务必在虚拟机下运行。CobaltStrike思想是攻击者的进步。作者：[0e0w](https://github.com/0e0w)
 
-本项目创建时间为2021年8月3日。最近的一次更新时间为2022年7月1日。
+本项目创建时间为2021年8月3日。最近的一次更新时间为2022年7月4日。
 
 - [01-CobaltStrike资源](https://github.com/0e0w/Cobalt-Strike#0x01-cobaltstrike%E8%B5%84%E6%BA%90)
 - [02-CobaltStrike程序](https://github.com/0e0w/Cobalt-Strike#0x02-cobaltstrike%E7%A8%8B%E5%BA%8F)
@@ -20,7 +20,7 @@
 - https://github.com/topics/cobaltstrike
 
 一、官方手册
-- [ ] https://cobaltstrike.com/downloads/csmanual44.pdf
+- [ ] https://download.cobaltstrike.com/downloads/csmanual44.pdf
 
 二、基础教程
 - [ ] https://wiki.wgpsec.org/knowledge/intranet/Cobalt-Strike.html
@@ -87,6 +87,7 @@
 - [ ] https://github.com/threatexpress/random_c2_profile
 - [ ] https://github.com/BC-SECURITY/Malleable-C2-Profiles
 - [ ] https://github.com/D00Movenok/goMalleable
+- [ ] https://github.com/Peithon/JustC2file
 
 二、External-C2
 - [ ] https://github.com/Und3rf10w/external_c2_framework
