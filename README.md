@@ -2,7 +2,7 @@
 
 这里记录收集优秀的CobaltStrike内容，包括优秀的资源工具或优秀的项目代码等。本项目大部分工具都未检测是否存在后门，务必在虚拟机下运行。CobaltStrike思想是攻击者的进步。作者：[0e0w](https://github.com/0e0w)
 
-本项目创建时间为2021年8月3日。最近的一次更新时间为2022年8月4日。
+本项目创建时间为2021年8月3日。最近的一次更新时间为2022年8月22日。
 
 - [01-CobaltStrike资源](https://github.com/0e0w/Cobalt-Strike#0x01-cobaltstrike%E8%B5%84%E6%BA%90)
 - [02-CobaltStrike程序](https://github.com/0e0w/Cobalt-Strike#0x02-cobaltstrike%E7%A8%8B%E5%BA%8F)
@@ -155,6 +155,7 @@
 - [ ] [MS17-010](https://github.com/phink-team/Cobaltstrike-MS17-010)
 - 流量隧道
 - [ ] [UploadAndRunFrp](https://github.com/Ch1ngg/AggressorScript-UploadAndRunFrp)
+- [ ] https://github.com/m3rcer/Chisel-Strike
 - 痕迹清理
 - [ ] [EventLogMaster](https://github.com/QAX-A-Team/EventLogMaster)
 - [ ] [Phant0m_cobaltstrike](https://github.com/p292/Phant0m_cobaltstrike)
@@ -274,6 +275,9 @@
 - [ ] https://github.com/hlldz/Phant0m
 - [ ] https://github.com/JDArmy/RPCSCAN
 - [ ] https://github.com/Cracked5pider/KaynStrike
+- [ ] https://github.com/kyleavery/AceLdr
+- [ ] https://github.com/matthieu-hackwitharts/UnhookMe
+- [ ] https://github.com/ScriptIdiot/BOF-patchit
 
 ## 05-CobaltStrike研究
 
