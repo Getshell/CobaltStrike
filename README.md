@@ -1,8 +1,10 @@
 # 《深入理解Cobalt Strike》
 
+![Getshell](https://socialify.git.ci/Getshell/CobaltStrike/image?description=1&font=Inter&forks=1&issues=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Light)
+
 这里记录收集优秀的CobaltStrike内容，包括优秀的资源工具或优秀的项目代码等。本项目大部分工具都未检测是否存在后门，务必在虚拟机下运行。CobaltStrike思想是攻击者的进步。作者：[0e0w](https://github.com/0e0w)
 
-本项目创建时间为2021年8月3日。最近的一次更新时间为2022年11月28日。
+本项目创建时间为2021年8月3日。最近的一次更新时间为2022年12月24日。
 
 - [01-CobaltStrike资源](https://github.com/0e0w/Cobalt-Strike#0x01-cobaltstrike%E8%B5%84%E6%BA%90)
 - [02-CobaltStrike程序](https://github.com/0e0w/Cobalt-Strike#0x02-cobaltstrike%E7%A8%8B%E5%BA%8F)
@@ -181,6 +183,7 @@
 - [ ] https://github.com/Adminisme/ServerScan
 - [ ] https://github.com/SeaOf0/CSplugins
 - [ ] https://github.com/k1d0ne/cobaltstrike_plugin
+- [ ] https://github.com/9bie/Slacker
 
 七、其他内容
 - [ ] https://github.com/bitsadmin/nopowershell
